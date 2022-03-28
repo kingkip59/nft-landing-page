@@ -1,7 +1,7 @@
 {
-  "name": "nft-landing-page",
+  "name": "Lucy's Colorful Friends",
   "version": "1.1.0",
-  "description": "This repo is a work-in-progress and pairs with the Mint 10k NFT project.",
+  "description": "This project is to support Lucy and her care for Pitt-Hopkins Syndrome. Pitt Hopkins Syndrome (PTHS) is a rare genetic disorder affecting a specific gene in chromosome 18, called TCF4",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
